@@ -36,7 +36,7 @@ body {
 	align-items: center;
 	/* don't consume click events - make children visible explicitly */
 	visibility: hidden;
-	margin: 10%;
+	max-width:80%;
 }
 
 #status-progress {
